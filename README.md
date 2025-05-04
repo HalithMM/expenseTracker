@@ -1,12 +1,16 @@
-# React + Vite
+# 💰 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and user-friendly **Expense Tracker** web application built using **ReactJS** for the frontend and **Firebase Realtime Database** for backend storage. It helps users track their daily income and expenses in real time.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add new income or expense entries
+- 📝 View a list of all transactions
+- 📊 Real-time balance updates
+- 🔄 Stores data securely in Firebase Realtime Database
+- 💻 Responsive UI across all devices
 
-## Expanding the ESLint configuration
+- ## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: ReactJS, HTML, CSS, Bootstrap (optional)
+- **Backend**: Firebase Realtime Database
